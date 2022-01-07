@@ -5,4 +5,5 @@ it uses localstorage to store the cities that are being searched, it allows you 
 
 Deployed Link: 
 
-Author:github.com/cMfarris
+Author: 
+https://github.com/cMfarris
